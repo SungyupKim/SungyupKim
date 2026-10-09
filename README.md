@@ -22,10 +22,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [llm_platform](https://github.com/SungyupKim/llm_platform) | LLM 에이전트 플랫폼 | Python |
 | [keycloakABAC-spring-cloud-gateway-integration](https://github.com/SungyupKim/keycloakABAC-spring-cloud-gateway-integration) | Keycloak ABAC과 Spring Cloud Gateway 연동 | Java |
-| [sample-mcp](https://github.com/SungyupKim/sample-mcp) | MCP 샘플 | Python |
-| [word_searcher](https://github.com/SungyupKim/word_searcher) | 단어 검색 유틸리티 | Python |
 | [chaos-tower](https://github.com/SungyupKim/chaos-tower) | 게임/실험 프로젝트 | C# |
 | [fightai](https://github.com/SungyupKim/fightai) | AI 프로젝트 | Python |
 
