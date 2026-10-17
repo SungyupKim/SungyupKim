@@ -11,7 +11,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-3.x-0F6CBD?style=flat)
 
-![Profile views](https://komarev.com/ghpvc/?username=SungyupKim&style=flat&color=0F6CBD&label=profile+views)
+![Profile views](https://hits.sh/github.com/SungyupKim/SungyupKim.svg?style=flat&label=profile%20views&color=0F6CBD)
 
 </div>
 
