@@ -40,8 +40,8 @@
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=SungyupKim&show_icons=true&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungyupKim&layout=compact&hide_border=true)
+![stats](profile-summary-card-output/github/3-stats.svg)
+![langs](profile-summary-card-output/github/2-most-commit-language.svg)
 
 </div>
 
