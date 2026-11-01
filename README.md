@@ -33,6 +33,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [standai](https://github.com/SungyupKim/standai) | A 2D ragdoll that gets up from fallen poses (lying on back/front) — 2 floor policies + a standing policy + a rule-based controller, fixed-seed evaluation (~24% end to end; bottleneck analysis and failure logs published) | Python, PPO, MuJoCo |
+| [walkai](https://github.com/SungyupKim/walkai) | Walking on top of standai — the same 2D MuJoCo biped, warm-started from the stand policy, trained with PPO to walk forward at a commanded speed (0.3–1.0 m/s) for 20 s without falling | Python, PPO, MuJoCo |
 | [fightai](https://github.com/SungyupKim/fightai) | 2D ragdoll self-play fighting league — the original starting point of standai | Python |
 | [keycloak-gateway-policy-console](https://github.com/SungyupKim/keycloak-gateway-policy-console) | Admin console that maps APIs behind Spring Cloud Gateway to Keycloak resources, permissions and ABAC policies with a Flow editor, and simulates authorization evaluation (OAuth2 login, policy CRUD, KO/EN UI) | Java, Spring Cloud Gateway, Keycloak, React, TypeScript |
 

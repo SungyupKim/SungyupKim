@@ -32,6 +32,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [standai](https://github.com/SungyupKim/standai) | 쓰러진 자세(누움/엎드림)에서 일어나 서는 2D 래그돌 — 바닥 정책 2개 + 서 있기 정책 + 룰 컨트롤러, 고정 시드 평가 (끝에서 끝까지 약 24%, 병목 분석과 실패 기록 공개) | Python, PPO, MuJoCo |
+| [walkai](https://github.com/SungyupKim/walkai) | standai 위에서 걷기 학습 — 같은 2D MuJoCo 이족 모델을 서 있기 정책에서 웜스타트해, 지령 속도(0.3–1.0 m/s)로 20초간 쓰러지지 않고 전진하도록 PPO로 학습 | Python, PPO, MuJoCo |
 | [fightai](https://github.com/SungyupKim/fightai) | 2D 래그돌 자가대전 격투 리그 — standai의 원 출발점 | Python |
 | [keycloak-gateway-policy-console](https://github.com/SungyupKim/keycloak-gateway-policy-console) | Spring Cloud Gateway 앞단의 API를 Keycloak 리소스·Permission·ABAC 정책에 Flow 에디터로 매핑하고 권한 평가를 시뮬레이션하는 관리 콘솔 (OAuth2 로그인, 정책 CRUD, 한/영 UI) | Java, Spring Cloud Gateway, Keycloak, React, TypeScript |
 
